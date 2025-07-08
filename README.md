@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Bhavana B R
 
-🎓 I'm currently pursuing a Computer Science & Engineering degree at **Kalpataru Institute of Technology, Tiptur** 🎓  
+🎓 I'm currently pursuing a Computer Science & Engineering degree at **Kalpataru Institute of Technology, Tiptur** 
 ✉️ Email: **bhavanabr827@gmail.com**  
 🔗 LinkedIn: [https://www.linkedin.com/in/bhavana-b-r-1aa3292a5](https://www.linkedin.com/in/bhavana-b-r-1aa3292a5)
 
@@ -21,7 +21,6 @@
 
 ---
 
-### 🛠️ Tools & Technologies
 ### 🛠️ Tools & Technologies
 
 #### 👩‍💻 **Languages**
