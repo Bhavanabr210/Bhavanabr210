@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
+I'm Bhavana B R — a passionate Computer Science Engineering student from Kalpataru Institute of Technology, Tiptur.
+
+- 🎓 Final year CSE student | Lifelong Learner
+- 💻 Currently exploring Web Development (HTML, CSS, JS, MERN)
+- 📊 Learning Data Tools: SQL, Excel
+- 🤖 Interested in AI, Desktop Assistants & Automation
+- 🌟 Building projects that solve real-world problems
 <!--
 **Bhavanabr210/Bhavanabr210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
