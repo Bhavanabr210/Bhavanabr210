@@ -1,41 +1,72 @@
-# Hi there 👋
+ # 👋 Hi, I'm Bhavana B R
 
-I'm Bhavana B R — a passionate Computer Science Engineering student from Kalpataru Institute of Technology, Tiptur.
+🎓 I'm currently pursuing a Computer Science & Engineering degree at **Kalpataru Institute of Technology, Tiptur** 🎓  
+✉️ Email: **bhavanabr827@gmail.com**  
+🔗 LinkedIn: [https://www.linkedin.com/in/bhavana-b-r-1aa3292a5](https://www.linkedin.com/in/bhavana-b-r-1aa3292a5)
 
-- 🎓 Final year CSE student | Lifelong Learner
-- 💻 Currently exploring Web Development (HTML, CSS, JS, MERN)
-- 📊 Learning Data Tools: SQL, Excel
-- 🤖 Interested in AI, Desktop Assistants & Automation
-- 🌟 Building projects that solve real-world problems
+💡 I'm passionate about building meaningful software projects and exploring the intersection of **AI**, **web development**, and **personal assistant tools**.
 
-## 🚀 Projects
+---
 
-Here are some of my completed and ongoing projects:
+## 👩‍💻 About Me
 
-- 🤖 **Personal Desktop Assistant using Python**  
-  A smart desktop AI assistant built with Python and PyTorch.  
-  It can open applications, search the web, respond to voice commands, and automate basic tasks.
+- 🎓 I’m **Bhavana B R**, a passionate Computer Science & Engineering student at **Kalpataru Institute of Technology, Tiptur**.
+- 💡 I'm deeply interested in building **real-world applications**, especially in areas like **AI**, **web development**, and **smart virtual assistants**.
+- 💻 I’ve worked on practical projects involving the **MERN stack**, **Python-based desktop assistants**, and **frontend interfaces** that make technology more accessible.
+- 🧠 I enjoy solving problems creatively, learning new technologies, and experimenting with innovative tools.
+- 🌐 Currently, I’m expanding my knowledge in **backend integrations**, **REST APIs**, and **full-stack development**.
+- 🚀 My long-term goal is to become a **versatile software developer** who builds impactful digital solutions for people around the world.
 
-- 🏠 **Property Rental Website** *(Ongoing)*  
-  A web platform built using the MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS).  
-  It allows landlords and tenants to upload properties and lets users search/filter listings based on location, price, and preferences.  
-  *(Currently under development)*
+✨ _Curious mind, consistent learner, and future-ready developer!_ 🌱
 
-- 🧮 **Virtual Math Teacher (AI-powered)**  
-  A simple yet smart AI-powered math teacher built using HTML, CSS, JavaScript, and JSON file-based storage.  
-  Users can input math-related questions, and the website responds with accurate answers using a lightweight AI logic system.
+---
 
+## 🛠️ Technologies & Tools
 
-## 🛠️ Tech Stack & Tools
+- **Languages**: Python, Java, JavaScript, HTML, CSS
+- **Frontend**: ReactJS, HTML5, CSS3, JavaScript (basic)
+- **Backend**: Node.js, Express.js, Python (basic), Flask (basic), Django (basic)
+- **Database**: MongoDB, MySQL
+- **Others**: Git & GitHub, JSON file storage, REST APIs, VS Code
+- **Stack**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+---
+
+## 📂 My Projects
+
+### 💻 Personal Desktop Assistant (Python, PyTorch)
+An AI-powered personal desktop assistant developed in **Python** using **PyTorch**, capable of performing system-level tasks and responding via voice commands.  
+🟢 **Status**: Fully Completed
+
+### 🏠 Property Rental Website (MERN Stack)
+A responsive web platform where users can post, search, and rent properties. Built using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.  
+🔧 **Status**: Currently Under Development
+
+### 🧠 Virtual MATH Teacher (HTML, CSS, JavaScript)
+A fun and lightweight assistant for solving math problems using front-end tech and **JSON** for data handling.  
+🟢 **Status**: Completed & Functional
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔍 MERN Stack Deep Dive
+- 🤖 AI-Powered Web Interfaces
+- 🧩 Backend Logic using Python & Node.js
+
+---
+
+## 📈 GitHub Stats
+
+![Bhavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavanaBR&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect with Me
+
+- Email: **bhavanabr827@gmail.com**  
+- LinkedIn: [https://www.linkedin.com/in/bhavana-b-r-1aa3292a5](https://www.linkedin.com/in/bhavana-b-r-1aa3292a5)
+
+---
+
+_Thank you for visiting my GitHub profile!_ 😊
