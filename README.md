@@ -34,8 +34,8 @@
 
 ## 📂 My Projects
 
-### 💻 Personal Desktop Assistant (Python, PyTorch)
-An AI-powered personal desktop assistant developed in **Python** using **PyTorch**, capable of performing system-level tasks and responding via voice commands.  
+### 💻 Personal Desktop Assistant (Python)
+ An AI-powered personal desktop assistant built using Python that can execute desktop-level commands and provide voice-based interaction.”
 🟢 **Status**: Fully Completed
 
 ### 🏠 Property Rental Website (MERN Stack)
